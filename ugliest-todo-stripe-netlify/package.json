@@ -5,7 +5,7 @@
   "author": "Justin Berman",
   "license": "MIT",
   "dependencies": {
-    "stripe": "8.8.0",
+    "stripe": "18.4.0",
     "request": "^2.88.0",
     "request-promise-native": "^1.0.8"
   }
