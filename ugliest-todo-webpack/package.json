@@ -8,7 +8,7 @@
   "devDependencies": {
     "webpack": "^4.41.2",
     "webpack-cli": "^3.3.10",
-    "webpack-dev-server": "^3.10.1"
+    "webpack-dev-server": "^4.7.3"
   },
   "dependencies": {
     "userbase-js": "^1.0.0"
